@@ -13,6 +13,8 @@
 
 ## Graph
 
+### ETC
+
 ### Shotest Path
 
 - [Floyd-Warshall](/graph/shortest_path/floyd_warshall.py)
@@ -21,6 +23,12 @@
   - [BOJ 1753 : 최단경로](https://www.acmicpc.net/problem/1753)
 - [Bellman-Ford](/graph/shortest_path/bellman_ford.py)
   - [BOJ 11657 : 타임머신](https://www.acmicpc.net/problem/11657)
+
+### MST
+
+- [Kruskal](/graph/mst/kruskal.py)
+- [Prim](/graph/mst/prim.py)
+  - [BOJ 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
 
 ## String
 
