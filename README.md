@@ -13,8 +13,6 @@
 
 ## Graph
 
-### ETC
-
 ### Shotest Path
 
 - [Floyd-Warshall](/graph/shortest_path/floyd_warshall.py)
@@ -24,11 +22,19 @@
 - [Bellman-Ford](/graph/shortest_path/bellman_ford.py)
   - [BOJ 11657 : 타임머신](https://www.acmicpc.net/problem/11657)
 
-### MST
+### MST (Minimum Spanning Tree)
 
 - [Kruskal](/graph/mst/kruskal.py)
 - [Prim](/graph/mst/prim.py)
   - [BOJ 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
+
+### SCC (Strongly Connected Component)
+
+- [Kosaraju](/graph/scc/kosaraju.py)
+- [Tarjan](/graph/scc/tarjan.py)
+  - [BOJ 2150 : Strongly Connected Component](https://www.acmicpc.net/problem/2150)
+
+### ETC
 
 ## String
 
