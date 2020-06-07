@@ -28,6 +28,12 @@
 - [Prim](/graph/mst/prim.py)
   - [BOJ 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
 
+### LCA (Longest Common Ancestor)
+  - [Naive LCA](/graph/lca/naive_lca.py)
+    - [BOJ 11437 : LCA](https://www.acmicpc.net/problem/11437)
+  - [Optimized LCA](graph/lca/optimized_lca.py)
+    - [BOJ 11438 : LCA 2](https://www.acmicpc.net/problem/11438)
+
 ### SCC (Strongly Connected Component)
 
 - [Kosaraju](/graph/scc/kosaraju.py)
@@ -35,6 +41,7 @@
   - [BOJ 2150 : Strongly Connected Component](https://www.acmicpc.net/problem/2150)
 
 ### ETC
+
 
 ## String
 
