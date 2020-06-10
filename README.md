@@ -40,10 +40,9 @@
 - [Tarjan](/graph/scc/tarjan.py)
   - [BOJ 2150 : Strongly Connected Component](https://www.acmicpc.net/problem/2150)
 
-### ETC
-
-
 ## String
 
 - [KMP](/string/kmp.py)
   - [BOJ 1768 : 찾기](https://www.acmicpc.net/problem/1786)
+- [Trie](/string/trie.py)
+  - [BOJ 5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052)
