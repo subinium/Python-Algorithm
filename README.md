@@ -4,6 +4,8 @@
 
 알고리즘문제 해결사이트에서 대표적인 알고리즘 문제를 위주로 알고리즘을 정리할 예정입니다.
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=subinium)](https://solved.ac/subinium)
+
 ## Math
 
 - [GCD / LCM](/math/gcd_lcm.py)
